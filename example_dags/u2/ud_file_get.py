@@ -1,7 +1,7 @@
 import sys
 sys.path.append("/usr/local/airflow/dags/gitdags/exapmle_dags")
 
-from common.log import MyAppLog
+from commmon.log import MyAppLog
 
 def main():
     # Call the imported function
