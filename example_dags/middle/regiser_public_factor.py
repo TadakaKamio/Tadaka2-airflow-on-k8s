@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!--DOCTYPE html-->
 <html lang="ja-JP" class="theme-auto">
 <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
