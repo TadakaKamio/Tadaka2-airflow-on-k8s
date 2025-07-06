@@ -1,5 +1,5 @@
 import sys
-sys.path.append("/usr/local/airflow/dags/.worktrees/*/dags")
+sys.path.append("/usr/local/airflow/dags/gitdags/exapmle_dags")
 
 from common.log import MyAppLog
 
