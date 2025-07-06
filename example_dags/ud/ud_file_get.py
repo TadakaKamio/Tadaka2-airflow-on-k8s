@@ -1,7 +1,7 @@
 import sys
-sys.path.append("/usr/local/airflow/dags/gitdags/dags")
+sys.path.append("/usr/local/airflow/dags/.worktrees/*/dags")
 
-from log import MyAppLog
+from common.log import MyAppLog
 
 def main():
     # Call the imported function
