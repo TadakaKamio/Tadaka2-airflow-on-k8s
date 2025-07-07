@@ -1,0 +1,21 @@
+{
+    "middle_download_cpu_limit": "500m",
+    "middle_download_get_path": "05311_ESG-POC/test",
+    "middle_download_ignore_files_dir":"/middle",
+    "middle_download_memory_limit": "3G",
+    "middle_download_proself_auth": {
+        "password": "@Online555",
+        "user": "hongou-takuto@tepsys.co.jp"
+    },
+    "middle_download_proself_base_url": "https://192.168.8.19:8080/",
+    "middle_download_put_base_path": "dtap://TenantStorage",
+    "middle_download_put_inputfiles_path": "/middle/inputfiles",
+    "middle_download_run_mode": "product",
+    "middle_download_schedule_interval": "0 0 * * *",
+    "middle_download_filter_taget_files": [],
+    "middle_download_put_masterfiles_path": "/middle/masterfiles",
+    "middle_delete_mapr_file_path": ["株式会社○○","東電介護老人ホーム","05311_ESG-POC","アベイトメントカーブ"],
+    "middle_output_csv_path": "/middle/outputfiles",
+    "middle_download_test": "false",
+    "middle_test_expect_files": []
+}
