@@ -1,0 +1,12 @@
+{
+  "GHG_PROSELF_UPLOAD_CPU_LIMIT": "500m",
+  "GHG_PROSELF_UPLOAD_MEMORY_LIMIT": "3G",
+  "GHG_PROSELF_UPLOAD_BASE_URL": "https://192.168.8.19:8080",
+  "GHG_PROSELF_UPLOAD_SUB_PATH": "05307_ESG-HD/調査表",
+  "GHG_PROSELF_UPLOAD_PROSELF_AUTH": {
+    "password": "@Online555",
+    "user": "hongou-takuto@tepsys.co.jp"
+  },
+  "GHG_PROSELF_UPLOAD_GET_BASE_PATH": "dtap://TenantStorage",
+  "GHG_PROSELF_UPLOAD_GET_SUB_PATH": "/ghg/input_files/ancate_info/HD"
+}

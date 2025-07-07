@@ -1,0 +1,9 @@
+{
+    "postgre": {
+        "host": "10.191.30.51",
+        "port": 5432,
+        "database": "ghghddb",
+        "user": "postgres",
+        "password": "8FuvJp+Msw"
+    }
+}

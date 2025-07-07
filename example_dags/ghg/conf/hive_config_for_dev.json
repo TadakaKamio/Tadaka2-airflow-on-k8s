@@ -1,0 +1,12 @@
+{
+    "hive": {
+        "host": "t-df04.ts.tdh.tepcube.jp",
+        "port": 10000,
+        "database": "db_ghg",
+        "use_ssl": true,
+        "ca_cert": "/tmp/ssl_truststore.pem",
+        "user": "hd-dev-user02",
+        "password": "W6fdnp%f#y",
+        "auth_mechanism": "PLAIN"
+    }
+}

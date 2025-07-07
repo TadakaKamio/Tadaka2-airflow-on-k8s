@@ -1,0 +1,12 @@
+{
+    "hive_common": {
+        "host": "t-df04.ts.tdh.tepcube.jp",
+        "port": 10000,
+        "database": "db_common",
+        "use_ssl": true,
+        "ca_cert": "/tmp/ssl_truststore.pem",
+        "user": "hd-dev-user07",
+        "password": "cy!3F684H%",
+        "auth_mechanism": "PLAIN"
+    }
+}

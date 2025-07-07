@@ -1,0 +1,22 @@
+{
+  "HD": {
+    "sftp": {
+      "host": "10.191.30.16",
+      "port": 22,
+      "user": "hd-dev-user02",
+      "password": "W6fdnp%f#y"
+    },
+    "source_dir": "/home/hd-dev-user02@ts.tdh.tepcube.jp/ghg/transfer_files/hd_to_pg",
+    "target_dir": "/home/hd-dev-user03@ts.tdh.tepcube.jp/ghg/transfer_files/hd_to_pg"
+  },
+  "PG": {
+    "sftp": {
+      "host": "10.191.30.16",
+      "port": 22,
+      "user": "hd-dev-user03",
+      "password": "U&2AvHt$RZ"
+    },
+    "source_dir": "/home/hd-dev-user03@ts.tdh.tepcube.jp/ghg/transfer_files/pg_to_hd",
+    "target_dir": "/home/hd-dev-user02@ts.tdh.tepcube.jp/ghg/transfer_files/pg_to_hd"
+  }
+}

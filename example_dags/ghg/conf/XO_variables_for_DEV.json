@@ -1,0 +1,21 @@
+{
+    "XO_ftp_get_schedule_interval": "0 23 * * *",
+    "XO_file_delete_schedule_interval": "0 23 * * *",
+    "XO_insert_db_interval": "0 23 * * *",
+    "XO_cpu_limit": "500m",
+    "XO_memory_limit": "3G",
+    "XO_ftp_host": "10.191.15.13",
+    "XO_ftp_port": "21",
+    "XO_ftp_user": "ESG_sys",
+    "XO_ftp_password": "ESG_sys_2025",
+    "XO_ftp_file_list": [
+        "/S1_M008r/s1account/output/ZZZXX018/current/User_Dif.file",
+        "/S1_M008r/s1account/output/ZZZXX018/current/Soshiki_Dif.file",
+        "/S1_M008r/s1account/output/ZZZXX018/current/Yakusyoku_Dif.file"
+    ],
+    "XO_dtap_path": "dtap://TenantStorage",
+    "XO_hdfs_dir": "/XO_TEST",
+    "XO_num_dates_to_keep": "14",
+    "XO_max_retries": "3",
+    "XO_wait_seconds": "10"
+}

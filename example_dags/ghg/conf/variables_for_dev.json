@@ -1,0 +1,16 @@
+{
+  "GHG_RUN_MODE": "dev",
+  "GHG_SCHEDULE_INTERVAL": "@once",
+  "GHG_COMPANY_UM": "ALL",
+  "GHG_BACKUP_TABLE_NAME": "ALL",
+  "GHG_HADOOP_BASE_PATH": "dtap://TenantStorage/ghg",
+  "GHG_HADOOP_INPUTFILES_ANCATE_INFO_PATH": "/input_files/ancate_info",
+  "GHG_HADOOP_INPUTFILES_SHITEI_INFO_PATH": "/input_files/shitei_info",
+  "GHG_HADOOP_INPUTFILES_TOKUTEI_INFO_PATH": "/input_files/tokutei_info",
+  "GHG_HADOOP_OUTPUTFILES_SHITEI_INFO_XML_PATH": "/output_files/shitei_info_xml",
+  "GHG_HADOOP_OUTPUTFILES_TOKUTEI_INFO_XML_PATH": "/output_files/tokutei_info_xml",
+  "GHG_HADOOP_OUTPUTFILES_TOKUTEI_INFO_INTERMEDIATE_FILE_PATH": "/output_files/tokutei_info_intermediate_file",
+  "GHG_DELETE_HADOOP_FILES_PATH": [
+    "/output_files/tokutei_info_intermediate_file/PG"
+  ]
+}
